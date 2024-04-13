@@ -19,8 +19,6 @@ VALUES ('Rebecca', 'Mills', 'Becca.mills@gmail.com', 'mills123');
 INSERT INTO Trainer (first_name, last_name, email, password)
 VALUES ('Fran', 'Green', 'greenf@hotmail.com', 'frann8');
 
-INSERT INTO Schedule (trainer_id, session_type, date, start_time, end_time, room_id)
-VALUES (1, 'Personal Training', '2024-04-15', '10:00:00', '11:00:00', 1);
 
 INSERT INTO Room (room_number, Date, description, start_time, end_time)
 VALUES ('101', '2024-04-15', 'Yoga Studio', '10:00:00','11:00:00' );
