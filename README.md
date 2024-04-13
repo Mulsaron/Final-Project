@@ -1,6 +1,6 @@
 # Final-Project
 
-Video link:
+
 
 List of files
 DDL.sql
